@@ -6,7 +6,7 @@ from ex:
 
 I have created database zomato and then inserted tables with different informations related to the sales, users, product, etc.<br>
 
-Then we have answered 10 questions which are like this:<br>
+Then I have answered 10 questions which are like this:<br>
 -- 1 what is the total amount each customer spent on the zomato?<br>
 -- 2 How many days has each customer visted zomato?<br>
 -- 3 what was the first product purachased by customer?<br>
